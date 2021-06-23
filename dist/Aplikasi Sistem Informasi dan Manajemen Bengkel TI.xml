@@ -1,0 +1,34 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\TA_PeminjamanAlat\dist\TA_PeminjamanAlat.jar</jar>
+  <outfile>D:\TA_PeminjamanAlat\dist\Aplikasi Peminjaman Alat.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>D:\TA_PeminjamanAlat\src\icon\Peminjaman.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.5.0_25</minVersion>
+    <maxVersion>1.8.0_25</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.1</fileVersion>
+    <txtFileVersion>19.02.2K18</txtFileVersion>
+    <fileDescription>Aplikasi Sistem Informasi dan Manajemen Bengkel TI</fileDescription>
+    <copyright>Annas Aufa 2018</copyright>
+    <productVersion>1.0.0.1</productVersion>
+    <txtProductVersion>19.02.2K18</txtProductVersion>
+    <productName>Aplikasi Peminjaman Alat</productName>
+    <companyName>Yogyakarta</companyName>
+    <internalName>Aplikasi Sistem Informasi dan Manajemen Bengkel TI</internalName>
+    <originalFilename>Aplikasi Peminjaman Alat.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
